@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sprite_type_list>
+  <sprite_type>Hero</sprite_type>
+  <sprite_type>statue</sprite_type>
+  <sprite_type>menu_cursor</sprite_type>
+  <sprite_type>slime</sprite_type>
+  <sprite_type>Dardunk</sprite_type>
+  <sprite_type>Grag</sprite_type>
+  <sprite_type>rock</sprite_type>
+  <sprite_type>warlock</sprite_type>
+  <sprite_type>dragon</sprite_type>
+</sprite_type_list>

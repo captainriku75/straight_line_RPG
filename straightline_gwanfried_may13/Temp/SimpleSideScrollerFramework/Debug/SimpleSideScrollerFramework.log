@@ -1,0 +1,86 @@
+﻿Build started 4/15/2015 11:31:32 AM.
+     1>Project "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\SimpleSideScrollerFramework\SimpleSideScrollerFramework.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\\" /Fd"C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt src\sssf\data_loader\GameDataLoader.cpp src\sssf\game\Actor.cpp src\sssf\game\BattleManager.cpp src\sssf\game\Game.cpp src\sssf\game\WStringTable.cpp src\sssf\graphics\GameGraphics.cpp src\sssf\graphics\RenderList.cpp src\sssf\graphics\TextureManager.cpp src\sssf\gsm\ai\BotRecycler.cpp src\sssf\gsm\ai\bots\MenuCursor.cpp src\sssf\gsm\ai\bots\Statue.cpp src\sssf\gsm\physics\AABB.cpp src\sssf\gsm\physics\CollidableObject.cpp src\sssf\gsm\physics\Physics.cpp src\sssf\gsm\sprite\AnimatedSprite.cpp src\sssf\gsm\sprite\AnimatedSpriteType.cpp src\sssf\gsm\sprite\SpriteManager.cpp src\sssf\gsm\state\GameStateManager.cpp src\sssf\gsm\world\SparseLayer.cpp src\sssf\gsm\world\TiledLayer.cpp src\sssf\gsm\world\World.cpp src\sssf\gui\Button.cpp src\sssf\gui\Cursor.cpp src\sssf\gui\GameGUI.cpp src\sssf\gui\ScreenGUI.cpp src\sssf\gui\Viewport.cpp src\sssf\input\GameInput.cpp src\sssf\platforms\DirectX\DirectXGraphics.cpp src\sssf\platforms\DirectX\DirectXTextureManager.cpp src\sssf\platforms\Windows\WindowsInput.cpp src\sssf\platforms\Windows\WindowsOS.cpp src\sssf\platforms\Windows\WindowsTimer.cpp src\sssf\text\BufferedTextFileReader.cpp src\sssf\text\GameText.cpp src\sssf\text\TextFileWriter.cpp src\sssf_VS\stdafx.cpp
+         stdafx.cpp
+         TextFileWriter.cpp
+         GameText.cpp
+         BufferedTextFileReader.cpp
+         WindowsTimer.cpp
+         WindowsOS.cpp
+         WindowsInput.cpp
+         DirectXTextureManager.cpp
+         DirectXGraphics.cpp
+         GameInput.cpp
+         Viewport.cpp
+         ScreenGUI.cpp
+         GameGUI.cpp
+         Cursor.cpp
+         Button.cpp
+         World.cpp
+         TiledLayer.cpp
+         SparseLayer.cpp
+         GameStateManager.cpp
+         SpriteManager.cpp
+         Generating Code...
+         Compiling...
+         AnimatedSpriteType.cpp
+         AnimatedSprite.cpp
+         Physics.cpp
+         CollidableObject.cpp
+         AABB.cpp
+         Statue.cpp
+         MenuCursor.cpp
+         BotRecycler.cpp
+         TextureManager.cpp
+         RenderList.cpp
+         GameGraphics.cpp
+         WStringTable.cpp
+         Game.cpp
+         BattleManager.cpp
+         Actor.cpp
+         GameDataLoader.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Common\SimpleSideScrollerFramework.lib" /NOLOGO "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\GameDataLoader.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\Actor.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\BattleManager.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\Game.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\WStringTable.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\GameGraphics.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\RenderList.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\TextureManager.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\BotRecycler.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\MenuCursor.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\Statue.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\AABB.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\CollidableObject.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\Physics.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\AnimatedSprite.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\AnimatedSpriteType.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\SpriteManager.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\GameStateManager.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\SparseLayer.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\TiledLayer.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\World.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\Button.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\Cursor.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\GameGUI.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\ScreenGUI.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\Viewport.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\GameInput.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\DirectXGraphics.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\DirectXTextureManager.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\WindowsInput.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\WindowsOS.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\WindowsTimer.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\BufferedTextFileReader.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\GameText.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\TextFileWriter.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\SimpleSideScrollerFramework\Debug\stdafx.obj"
+         SimpleSideScrollerFramework.vcxproj -> C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Common\SimpleSideScrollerFramework.lib
+     1>Done Building Project "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\SimpleSideScrollerFramework\SimpleSideScrollerFramework.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:01:05.17

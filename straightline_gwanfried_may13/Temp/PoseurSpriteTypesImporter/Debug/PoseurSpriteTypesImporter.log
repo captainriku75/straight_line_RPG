@@ -1,0 +1,16 @@
+﻿Build started 4/15/2015 11:31:15 AM.
+     1>Project "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\PoseurSpriteTypesImporter\PoseurSpriteTypesImporter.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\PoseurSpriteTypesImporter\Debug\\" /Fd"C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\PoseurSpriteTypesImporter\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt src\psti\PoseurSpriteTypesImporter.cpp src\psti_VS\stdafx.cpp
+         stdafx.cpp
+         PoseurSpriteTypesImporter.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Common\PoseurSpriteTypesImporter.lib" /NOLOGO "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\PoseurSpriteTypesImporter\Debug\PoseurSpriteTypesImporter.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\PoseurSpriteTypesImporter\Debug\stdafx.obj"
+         PoseurSpriteTypesImporter.vcxproj -> C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Common\PoseurSpriteTypesImporter.lib
+     1>Done Building Project "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\PoseurSpriteTypesImporter\PoseurSpriteTypesImporter.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:15.86

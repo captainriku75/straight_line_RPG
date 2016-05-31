@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="src\StraightLineRPG">
+      <UniqueIdentifier>{5bb326e0-4321-4d0e-9cee-6f98c21671d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\StraightLineRPG_VS">
+      <UniqueIdentifier>{c33742fb-cb3d-4d8d-a88b-09ba1684fcdb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\StraightLineRPG_VS\stdafx.cpp">
+      <Filter>src\StraightLineRPG_VS</Filter>
+    </ClCompile>
+    <ClCompile Include="src\StraightLineRPG\StraightLineRPG.cpp">
+      <Filter>src\StraightLineRPG</Filter>
+    </ClCompile>
+    <ClCompile Include="src\StraightLineRPG\StraightLineRPGButtonEventHandler.cpp">
+      <Filter>src\StraightLineRPG</Filter>
+    </ClCompile>
+    <ClCompile Include="src\StraightLineRPG\StraightLineRPGDataLoader.cpp">
+      <Filter>src\StraightLineRPG</Filter>
+    </ClCompile>
+    <ClCompile Include="src\StraightLineRPG\StraightLineRPGKeyEventHandler.cpp">
+      <Filter>src\StraightLineRPG</Filter>
+    </ClCompile>
+    <ClCompile Include="src\StraightLineRPG\StraightLineRPGTextGenerator.cpp">
+      <Filter>src\StraightLineRPG</Filter>
+    </ClCompile>
+    <ClCompile Include="src\StraightLineRPG\Contact.cpp">
+      <Filter>src\StraightLineRPG</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\StraightLineRPG_VS\stdafx.h">
+      <Filter>src\StraightLineRPG_VS</Filter>
+    </ClInclude>
+    <ClInclude Include="src\StraightLineRPG\StraightLineRPG.h">
+      <Filter>src\StraightLineRPG</Filter>
+    </ClInclude>
+    <ClInclude Include="src\StraightLineRPG\StraightLineRPGButtonEventHandler.h">
+      <Filter>src\StraightLineRPG</Filter>
+    </ClInclude>
+    <ClInclude Include="src\StraightLineRPG\StraightLineRPGDataLoader.h">
+      <Filter>src\StraightLineRPG</Filter>
+    </ClInclude>
+    <ClInclude Include="src\StraightLineRPG\StraightLineRPGKeyEventHandler.h">
+      <Filter>src\StraightLineRPG</Filter>
+    </ClInclude>
+    <ClInclude Include="src\StraightLineRPG\StraightLineRPGTextGenerator.h">
+      <Filter>src\StraightLineRPG</Filter>
+    </ClInclude>
+    <ClInclude Include="src\StraightLineRPG\Contact.h">
+      <Filter>src\StraightLineRPG</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

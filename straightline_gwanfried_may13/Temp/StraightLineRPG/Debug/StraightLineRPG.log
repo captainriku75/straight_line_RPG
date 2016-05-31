@@ -1,0 +1,26 @@
+﻿Build started 4/15/2015 11:32:37 AM.
+     1>Project "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\StraightLineRPG\StraightLineRPG.vcxproj" on node 4 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\StraightLineRPG\Debug\\" /Fd"C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\StraightLineRPG\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt src\StraightLineRPG\Contact.cpp src\StraightLineRPG\StraightLineRPG.cpp src\StraightLineRPG\StraightLineRPGButtonEventHandler.cpp src\StraightLineRPG\StraightLineRPGDataLoader.cpp src\StraightLineRPG\StraightLineRPGKeyEventHandler.cpp src\StraightLineRPG\StraightLineRPGTextGenerator.cpp src\StraightLineRPG_VS\stdafx.cpp
+         stdafx.cpp
+         StraightLineRPGTextGenerator.cpp
+         StraightLineRPGKeyEventHandler.cpp
+         StraightLineRPGDataLoader.cpp
+         StraightLineRPGButtonEventHandler.cpp
+         StraightLineRPG.cpp
+         Contact.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Apps\StraightLineRPG\StraightLineRPG.exe" /INCREMENTAL /NOLOGO d3d9.lib d3dx9.lib winmm.lib PoseurSpriteTypesImporter.lib SimpleSideScrollerFramework.lib tinyxml.lib TMXMapImporter.lib XMLFileImporter.lib Box2D.lib fmodL_vc.lib luaplusstatic51_1201.release.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Apps\StraightLineRPG\StraightLineRPG.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Apps\StraightLineRPG\StraightLineRPG.lib" /MACHINE:X86 "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\StraightLineRPG\Debug\Contact.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\StraightLineRPG\Debug\StraightLineRPG.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\StraightLineRPG\Debug\StraightLineRPGButtonEventHandler.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\StraightLineRPG\Debug\StraightLineRPGDataLoader.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\StraightLineRPG\Debug\StraightLineRPGKeyEventHandler.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\StraightLineRPG\Debug\StraightLineRPGTextGenerator.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\StraightLineRPG\Debug\stdafx.obj"
+         StraightLineRPG.vcxproj -> C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Apps\StraightLineRPG\StraightLineRPG.exe
+     1>Done Building Project "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\StraightLineRPG\StraightLineRPG.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:24.47

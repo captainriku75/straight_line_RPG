@@ -1,0 +1,24 @@
+﻿Build started 4/15/2015 11:31:22 AM.
+     1>Project "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\tinyxml\tinyxml.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D USE_STANDARD_FILE_FUNCTIONS /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\tinyxml\Debug\\" /Fd"C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\tinyxml\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt src\tinyxml\tinystr.cpp src\tinyxml\tinyxml.cpp src\tinyxml\tinyxmlerror.cpp src\tinyxml\tinyxmlparser.cpp src\tinyxml\xmltest.cpp src\tinyxml_VS\stdafx.cpp
+         stdafx.cpp
+         xmltest.cpp
+         tinyxmlparser.cpp
+         tinyxmlerror.cpp
+         tinyxml.cpp
+         tinystr.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Common\tinyxml.lib" /NOLOGO "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\tinyxml\Debug\tinystr.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\tinyxml\Debug\tinyxml.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\tinyxml\Debug\tinyxmlerror.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\tinyxml\Debug\tinyxmlparser.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\tinyxml\Debug\xmltest.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\tinyxml\Debug\stdafx.obj"
+         tinyxml.vcxproj -> C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Common\tinyxml.lib
+     1>Done Building Project "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\tinyxml\tinyxml.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.63

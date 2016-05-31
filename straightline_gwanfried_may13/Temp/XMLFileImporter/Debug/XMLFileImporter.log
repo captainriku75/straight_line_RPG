@@ -1,0 +1,16 @@
+﻿Build started 4/15/2015 11:31:14 AM.
+     1>Project "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\XMLFileImporter\XMLFileImporter.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\XMLFileImporter\Debug\\" /Fd"C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\XMLFileImporter\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt src\xmlfi\XMLFileImporter.cpp src\xmlfi_VS\stdafx.cpp
+         stdafx.cpp
+         XMLFileImporter.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Common\XMLFileImporter.lib" /NOLOGO "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\XMLFileImporter\Debug\XMLFileImporter.obj"
+         "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Temp\XMLFileImporter\Debug\stdafx.obj"
+         XMLFileImporter.vcxproj -> C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\Common\XMLFileImporter.lib
+     1>Done Building Project "C:\Users\Philip\Documents\assignments\cse 380\RPG\straightline_gwanfried_may13\XMLFileImporter\XMLFileImporter.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.62
